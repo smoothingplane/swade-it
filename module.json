@@ -1,0 +1,25 @@
+{
+  "name": "swade-it",
+  "title": "SWADE Italian translation",
+  "description": "Adds Italian to the SWADE system",
+  "version": "0.1.0",
+  "minimumCoreVersion" : "0.7.5",
+  "compatibleCoreVersion" : "0.7.8",
+  "author": "",
+      
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  
+  "languages": [
+    {
+      "lang": "it",
+      "name": "Italian",
+      "path": "it.json"
+    }
+  ],
+    
+  "url": "https://github.com/smoothingplane/swade-it",
+  "manifest": "",
+  "download": ""
+}
